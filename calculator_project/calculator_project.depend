@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591384197 source:c:\users\captian vee\desktop\042ai\c++\code\calculator_project\main.cpp
+	<iostream>
+	<unistd.h>
+
